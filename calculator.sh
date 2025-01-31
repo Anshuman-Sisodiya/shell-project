@@ -7,4 +7,8 @@ a=1+2
 
 
 # Division
+<<<<<<< HEAD
 
+=======
+# # multiplication
+>>>>>>> mergeexample
